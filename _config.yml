@@ -1,10 +1,10 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello for Github Pages
-author: Sara Gong
+title: David Thai Portfolio
+author: David Thai
 description: > 
-  A minimalist template for designing a personal GitHub Pages website - without typing a single line of code.
+  A portfolio of my student work during my time at Clemson University
 baseurl: ""
 
 plugins:
